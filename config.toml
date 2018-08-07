@@ -1,4 +1,4 @@
 baseURL = "https://fopat.io"
 languageCode = "en-gb"
 title = "F-Off & Pick A Ticket (FOPAT)"
-theme = "tale"
+theme = "ananke"
