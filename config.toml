@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://fopat.io"
+languageCode = "en-gb"
+title = "F-Off & Pick A Ticket (FOPAT)"
+theme = "tale"
